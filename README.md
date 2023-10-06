@@ -3,14 +3,14 @@ A notebook should be designed as a graph, not in a tree or sequential fashion. T
 
 *I'm a machine learning guy who know nothing about web design so this project is 90\% powered by GPT. The start point is that I want a tool to help with my bad memory during reading :\)*
 
-## Plan
+## :thinking: Plan
 1. Build an interactive graph.
 2. Extract basic info from PDF and html.
 3. Extract citations from PDF or source.
 4. Interact with the PDF.
 5. Implement LLM for searching similar ideas and drawing conclusions.
 
-## Install
+## :hammer_and_wrench: Install 
 This project is based on Flask \(backend\) and React \(frontend\).
 - Step 1. Run Flask. [tutorial](https://code.visualstudio.com/docs/python/tutorial-flask)
 ```command line
@@ -25,7 +25,7 @@ npx create-react-app my-app
 ```cmd
 npm start
 ```
-## Features
+## :white_check_mark: Features 
 1. Create node and link with input box quickly with suggestion.
 2. Create dest node from a source node quickly with `Tab`.
 3. A sliding bar to highlight links and nodes based on their creating date.
