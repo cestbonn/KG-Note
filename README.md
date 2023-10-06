@@ -5,10 +5,11 @@ A notebook should be designed as a graph, not in a tree or sequential fashion. T
 
 ## :thinking: Plan
 1. Build an interactive graph.
-2. Extract basic info from PDF and html.
-3. Extract citations from PDF or source.
-4. Interact with the PDF.
-5. Implement LLM for searching similar ideas and drawing conclusions.
+2. Connect two nodes interactively.
+3. Extract basic info from PDF and html.
+4. Extract citations from PDF or source.
+5. Interact with the PDF.
+6. Implement LLM for searching similar ideas and drawing conclusions.
 
 ## :hammer_and_wrench: Install 
 This project is based on Flask \(backend\) and React \(frontend\).
