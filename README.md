@@ -25,3 +25,7 @@ npx create-react-app my-app
 ```cmd
 npm start
 ```
+## Features
+1. Create node and link with input box quickly with suggestion.
+2. Create dest node from a source node quickly with `Tab`.
+3. A sliding bar to highlight links and nodes based on their creating date.
