@@ -9,3 +9,19 @@ A notebook should be designed as a graph, not in a tree or sequential fashion. T
 3. Extract citations from PDF or source.
 4. Interact with the PDF.
 5. Implement LLM for searching similar ideas and drawing conclusions.
+
+## Install
+This project is based on Flask \(backend\) and React \(frontend\).
+- Step 1. Run Flask. [tutorial](https://code.visualstudio.com/docs/python/tutorial-flask)
+```command line
+python app.py
+```
+- Step 2. Create a React project. [tutorial](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+```cmd
+npx create-react-app my-app
+```
+- Step 3. Replace files in `src` to `my-app/src`.
+- Step 4. ~~Enjoy!~~
+```cmd
+npm start
+```
